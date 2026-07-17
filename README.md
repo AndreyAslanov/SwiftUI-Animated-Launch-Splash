@@ -8,7 +8,7 @@ When the animation finishes, the overlay simply disappears and reveals the alrea
 
 ## Demo
 
-Add the demo video here after uploading it to GitHub.
+https://github.com/user-attachments/assets/15076174-56c1-4387-90f5-ac14aedfd26a
 
 ## Launch flow
 
